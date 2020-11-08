@@ -9,8 +9,5 @@ class Main {
     Scanner scan = new Scanner(System.in);
     //Generate 15 random names
     for (int i = 0; i < names.length; i++)
-      System.out.println("whats is your name?");
-   String name = scan.next();
-   System.out.println()
-  }
+    
 }
