@@ -8,6 +8,7 @@ class Main {
     //Amount of random student names
     Scanner scan = new Scanner(System.in);
     //Generate 15 random names
-    for (int i = 0; i < names.length; i++)
+    for (int i = 0; i < names.length; i++){
+
+    }
     
-}
