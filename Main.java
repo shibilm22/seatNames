@@ -17,7 +17,7 @@ public static void main(String[] args) {
     names[i] = scan.next();
     }
     int i = 0;
-    While (i < names.length);{
+    while (i < names.length);{
     System.out.println(names [i] + "Sits in seat number" + seat [i]);
 }
   
