@@ -20,6 +20,7 @@ class Main {
     while (i < names.length)
     {
       System.out.println(names[i] + "Sits in seat #" + seats[i]);
+      //for every name added, a seat number is placed
       i++;
     }
 
