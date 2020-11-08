@@ -14,8 +14,8 @@ public static void main(String[] args) {
     //You can only +1 to the index if it is less than the length of names
     System.out.println("Enter a name"); 
     //Every time you enter a name, the statement pops up 15 more times
-    names [i] = scan.next();
-    }
+    {
+    names[i] = scan.next();
     int i = 0;
     while (i < names.length);{
     System.out.println(names [i] + "Sits in seat number" + seats [i]);
