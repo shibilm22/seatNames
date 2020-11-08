@@ -12,7 +12,7 @@ class Main {
     //seats start at index of 0 (1)
     //the seats have to be less than the length of names
     //You can only +1 to the index if it is less than the length of names
-    
+    System.out.println("Enter a name"); 
 
     }
     
