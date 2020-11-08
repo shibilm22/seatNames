@@ -18,7 +18,7 @@ public static void main(String[] args) {
     }
     int i = 0;
     While (i < names.length);{
-    System.out.println(names [i] + "Sits in seat number" + seaNumbers [i]);
+    System.out.println(names [i] + "Sits in seat number" + seat [i]);
 }
   
   }
