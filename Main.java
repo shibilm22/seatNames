@@ -9,6 +9,9 @@ class Main {
     Scanner scan = new Scanner(System.in);
     //Generate 15 random names
     for (int i = 0; i < names.length; i++){
+    //seats start at index of 0 (1)
+    //the seats have to be less than the length of names
+    //You can onl
 
     }
     
